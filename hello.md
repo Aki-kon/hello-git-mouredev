@@ -2059,4 +2059,4 @@
 - JasonZamora
 - gionnian
 - hitbit72
-- Aki-kon
+- Aki-ko
